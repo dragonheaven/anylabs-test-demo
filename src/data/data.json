@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Take out the trash",
+    "status": "done",
+    "time": 1854,
+    "cost": 5.15
+  },
+  {
+    "id": 2,
+    "name": "Walk the dog",
+    "status": "done",
+    "time": 4273,
+    "cost": 11.87
+  },
+  {
+    "id": 3,
+    "name": "Go to grocery",
+    "status": "progress",
+    "time": 523,
+    "cost": 0
+  },
+  {
+    "id": 4,
+    "name": "Build a house",
+    "status": "todo",
+    "time": 0,
+    "cost": 0
+  },
+  {
+    "id": 5,
+    "name": "Plant a tree",
+    "status": "todo",
+    "time": 0,
+    "cost": 0
+  }
+]

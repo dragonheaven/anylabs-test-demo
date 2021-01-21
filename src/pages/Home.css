@@ -1,0 +1,15 @@
+.home {
+  padding: 35px 0;
+  min-height: 100vh;
+}
+
+.home h1.title {
+  font-size: 30px;
+  color: #24292F;
+}
+
+.home p.desc {
+  font-size: 25px;
+  margin-top: 10px;
+  color: #5B646C;
+}

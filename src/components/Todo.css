@@ -1,0 +1,9 @@
+.btn-new {
+  border: 1px solid #2222 !important;
+  border-radius: 5px !important;
+  background-color: white !important;
+  color: #323332 !important;
+  font-weight: 500 !important;
+  font-size: 24px !important;
+  padding: 10px 25px !important;
+}

@@ -1,0 +1,32 @@
+.task-item {
+  font-size: 24px;
+}
+
+.task-item .icon {
+  color: #6B747B;
+  font-size: 18px;
+}
+
+.task-item .name {
+  color: #24292F;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1;
+}
+
+.task-item .desc {
+  color: #6B747B;
+  font-weight: 500;
+  padding-top: 28px;
+  font-size: 24px;
+  letter-spacing: 2px
+}
+
+.task-item .actions {
+  padding: 12px;
+}
+
+.task-item .actions .btn {
+  padding: 6px 16px !important;
+  font-size: 24px;
+}
